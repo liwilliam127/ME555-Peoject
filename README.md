@@ -1,4 +1,4 @@
-# ME555-Project  
+# MM_RoboTask 
 **Enhancing Robotic Task Prediction with Multi-Modal Inputs: Integrating Voice Commands and Mechanical Measurements**
 
 ---
